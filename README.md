@@ -6,6 +6,12 @@ An Android security utility built in Kotlin that triggers alert notifications th
   <img src="assets/brand/logo.png" alt="PixelPie Media Logo" width="300" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/pikadexofc/charger-unplug-alarm?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <img src="https://img.shields.io/github/last-commit/pikadexofc/charger-unplug-alarm?style=flat-square" alt="Last Commit" />
+</p>
+
 ---
 
 ## 🚀 Key Features
